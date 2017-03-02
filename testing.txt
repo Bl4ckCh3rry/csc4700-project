@@ -1,0 +1,17 @@
+The next step in the project is to simulate the type of discussion that takes place on a pull request. If this was a code review, it's possible I would request changes before merging. You would make those changes (assuming you agree with them) and the conversation would continue. It's possible that a number of iterations may be needed based on how the changes evolve.
+
+For Phase 2 of the project, you must make the following changes to this file before it will be merged:
+
+On the line after your GitHub account name, add your first and last name.
+On the line after that, add your major.
+When Phase 2 is complete, I will re-review this pull request to make sure the requested changes have been made to it. If they are, I will merge it.
+
+Keep in mind:
+
+You will not need to submit another pull request. Once the changes are made to your remote branch (i.e. the one in your GitHub account) they will be reflected in this pull request.
+You should see those changes in this pull request. The Commits tab should reflect that 2 (more if you needed a few attempts) are going to be merged as part of this request. The Files Changed tab should show both the original file and the new changes you've submitted.
+
+Eric Steele
+Computer Science
+
+Forked the wrong repositories, I had csc4700-unit-testing and csc4700-testing. Took the instructions from Luelle Serrano's Github account. If this is considered a foul, note that she was not aware of this, I just went down the list of people who forked the csc4700 repository and took from the first name I recognized.
